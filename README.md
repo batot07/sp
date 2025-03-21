@@ -1,2 +1,5 @@
-# sp
-sp project 
+# online supermarket shopping
+##needed functions
+
+##needed structures
+
